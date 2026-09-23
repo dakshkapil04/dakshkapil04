@@ -1,5 +1,16 @@
-# 💫 About Me:
-## 👋 Hi, I'm Daksh Tyagi<br><br>I'm a **Full Stack Developer and Java Developer in the making**, currently pursuing B.Tech in Computer Science Engineering.<br><br>I enjoy building **real-world web applications, backend utilities, and developer-focused projects** while continuously improving my problem-solving and software development skills.<br><br>### 💻 What I Work With<br><br>* **Languages:** Java, Python<br>* **Frontend:** HTML, CSS, JavaScript, React<br>* **Backend:** Node.js, Express.js, REST APIs<br>* **Database:** PostgreSQL, MongoDB, SQL<br>* **Java:** Core Java, OOP, JDBC, DSA<br>* **Tools:** Git, GitHub, VS Code, Maven<br>* **Currently Learning:** Advanced Java, DSA, Full Stack Development, Backend Development & DevOps<br><br>### 🚀 What I'm Building<br><br>I like working on projects that help me understand how real software is designed, developed, tested, and deployed — from interactive frontend applications to backend systems and developer tools.<br><br>### 📚 My Current Focus<br><br>* Strengthening **Java + DSA** for software development and technical interviews<br>* Building scalable **Full Stack applications**<br>* Improving backend and database development<br>* Learning modern development and deployment practices<br>* Contributing to open-source and building projects for my portfolio<br><br>> **Learn → Build → Solve → Improve → Repeat 🔥**<br>
+<h1 align="center">Hi 👋, Daksh Tyagi</h1>
+
+<h3 align="center">
+  Full Stack Java Developer | Java | Spring Boot | React | SQL
+</h3>
+
+<p align="center">
+  <a href="https://github.com/dakshkapil04">
+    <img src="https://komarev.com/ghpvc/?username=dakshkapil04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
+#  About Me:
+## <br><br>I'm a **Full Stack Developer and Java Developer in the making**, currently pursuing B.Tech in Computer Science Engineering.<br><br>I enjoy building **real-world web applications, backend utilities, and developer-focused projects** while continuously improving my problem-solving and software development skills.<br><br>### 💻 What I Work With<br><br>* **Languages:** Java, Python<br>* **Frontend:** HTML, CSS, JavaScript, React<br>* **Backend:** Node.js, Express.js, REST APIs<br>* **Database:** PostgreSQL, MongoDB, SQL<br>* **Java:** Core Java, OOP, JDBC, DSA<br>* **Tools:** Git, GitHub, VS Code, Maven<br>* **Currently Learning:** Advanced Java, DSA, Full Stack Development, Backend Development & DevOps<br><br>### 🚀 What I'm Building<br><br>I like working on projects that help me understand how real software is designed, developed, tested, and deployed — from interactive frontend applications to backend systems and developer tools.<br><br>### 📚 My Current Focus<br><br>* Strengthening **Java + DSA** for software development and technical interviews<br>* Building scalable **Full Stack applications**<br>* Improving backend and database development<br>* Learning modern development and deployment practices<br>* Contributing to open-source and building projects for my portfolio<br><br>> **Learn → Build → Solve → Improve → Repeat 🔥**<br>
 
 
 ## 🌐 Socials:
